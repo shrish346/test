@@ -1,8 +1,8 @@
-# Donation Tracking System Architecture
+# Donation Tracking Stream Eng
 
 ## System Overview
 
-A system that matches donor contributions with organizational expenditures in chronological order, providing transparency through media-rich expenditure records and personalized donor dashboards.
+Stream engine that matches donor contributions with organizational expenditures in chronological order, providing transparency through media-rich expenditure records and personalized donor dashboards.
 
 ## Tech Stack
 
