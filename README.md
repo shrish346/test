@@ -1,7 +1,4 @@
 # Donation Tracking Stream Eng
-
-## System Overview
-
 Stream engine that matches donor contributions with organizational expenditures in chronological order, providing transparency through media-rich expenditure records and personalized donor dashboards.
 
 ## Tech Stack
